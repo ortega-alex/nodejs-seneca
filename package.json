@@ -1,0 +1,19 @@
+{
+  "name": "micro-seneca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "seneca": "^3.8.0",
+    "seneca-entity": "^2.4.0",
+    "seneca-jsonfile-store": "^1.1.0",
+    "sharp": "^0.21.3"
+  }
+}
